@@ -141,7 +141,7 @@ namespace _06_Arrays
 
             #region Kullanıcıdan Değer Alma
 
-            //string[] cities = new string[5];
+            //string[] cities = new string[5]; 
 
             //for (int i = 0; i < cities.Length; i++)
             //{
