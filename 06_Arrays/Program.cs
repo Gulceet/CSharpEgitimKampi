@@ -157,9 +157,45 @@ namespace _06_Arrays
             //{
             //    Console.WriteLine(cities[i]);
             //}
+             //*****************************************************************************
+
+            //int[] numbers = { 10, 20, 30, 40, 50, 60 };
+            //int sum = 0;
+            //for(int i = 0; i < numbers.Length; i++)
+            //{
+            //    sum += numbers[i];
+            //}
+            //Console.WriteLine(sum);
+            //***************************************************************************
+            //
 
 
-            int[] numbers = { 10, 20, 30, 40, 50, 60 };
+            //int[] numbers = {21,42,33,54,55,66,897,748,39,220};
+            //Console.WriteLine("Çift Sayılar : ");
+
+            //for(int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] %2 == 0)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
+
+            //Console.WriteLine("-------------------------");
+            //Console.WriteLine("tek sayılar : ");
+
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 1)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
+
+
+
+
+
 
             #endregion
 
